@@ -1,0 +1,14 @@
+{
+  "name": "base-safe-frame-wallet",
+  "version": "0.1.0",
+  "description": "Manage Gnosis Safe multi-sigs on Base via Farcaster Frames",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
